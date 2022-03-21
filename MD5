@@ -1,0 +1,17 @@
+a0acb824a49937636c7aba5a29fee4c4 *DESCRIPTION
+6d567d2a14c7c0628da5cc3d799eea9a *NAMESPACE
+43544dca286ed20913d7dec966919578 *NEWS.md
+a9d0433b77dc31f226d28491679fb3ff *R/PPSFS-package.R
+bf0638633e200ae3561538f33b7b29d9 *R/RcppExports.R
+5400c80cf4250d3e7532366e31be67fe *R/get-features.R
+c4606432c1ce0fe020bc14c8c4390173 *R/inter-pps.R
+0d47f53654213fd1a561d867b6cfb242 *R/ppsfs.R
+ab79eced1da42c3ceb268db578befdf9 *R/ppsfsi.R
+f972959075a7419e2be510d52fb0c1cf *README.md
+921b28e639346b64915783b7a27280c5 *build/partial.rdb
+14efae44b3c1d433e34b452bbba21a40 *man/PPS-method.Rd
+1118477fc3c3f3398594d0ee6177316b *man/PPSFS-package.Rd
+61059660eb073d93e00e8ee054237071 *src/Makevars
+61059660eb073d93e00e8ee054237071 *src/Makevars.win
+89b348d0f1b4540198b41b30031fecb8 *src/RcppExports.cpp
+60528027d9db532192bdb36beacd6907 *src/cxx-inter-pps.cpp
